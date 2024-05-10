@@ -1,4 +1,4 @@
-package DioTrilhaJava;
+package desafioContaDio;
 
 import java.util.Scanner;
 
